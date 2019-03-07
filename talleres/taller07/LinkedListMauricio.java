@@ -1,5 +1,5 @@
 import java.lang.IndexOutOfBoundsException; 
-import java.util.*;// Usar esto cuando se salga el índice// Una lista simplemente enlazada
+import java.util.*;
 public class LinkedListMauricio {
 private Nodo first;
 private int size;
